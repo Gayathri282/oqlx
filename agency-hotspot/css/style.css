@@ -781,7 +781,7 @@ section{padding: 0;}
 ====================================== */
 
 .slider-area{
-    background-image: url("../images/banner.jpg");
+/*     background-image: url("../images/banner.jpg"); */
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
